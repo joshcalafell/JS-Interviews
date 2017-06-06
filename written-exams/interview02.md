@@ -1,6 +1,6 @@
-# Question 2
+# Intrview 2
 
-## Mid-Level Angular 2 UI Developer interview questions.
+## Angular 2 UI Developer Interview Questions.
 
 ### Monday, June 5th 2017 - Denver, CO U.S.A. 80210
 
