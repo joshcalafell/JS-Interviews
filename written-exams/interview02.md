@@ -1,4 +1,4 @@
-# Intrview 2
+# Interview 2
 
 ## Angular 2 UI Developer Interview Questions.
 
