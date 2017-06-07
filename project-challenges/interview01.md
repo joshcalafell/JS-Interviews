@@ -18,5 +18,8 @@ Build the following page design. Make the layout respond as shown at the `600px`
 
 ## Pictures
 
+http://imgur.com/FcFCDQU
+http://i.imgur.com/FcFCDQU.jpg
+<a href="http://imgur.com/FcFCDQU"><img src="http://i.imgur.com/FcFCDQU.jpg" title="source: imgur.com" /></a>
 [Imgur](http://i.imgur.com/FcFCDQU.jpg)
 
