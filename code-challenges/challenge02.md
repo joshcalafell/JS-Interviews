@@ -1,6 +1,6 @@
 # Project Challenge 01
 
-## Junior Front-End Developer Interview Question.
+## Mid-Senior Front-End Developer Interview Question.
 
 ### Monday, Aug 5th 2017 - Denver, CO U.S.A. 80210
 
@@ -19,12 +19,14 @@
 
 * Assume Jane can only swap books that are touching, i.e. with a distance of `(+/-) 1 unit`.
 
+* Answer must be the smallest possible number of swaps, if there is any distinction between methods of solving (no hints here).
+
 ## Data
 
 ```javascript
-const list = [1,2,3,4,5,6,7,9,8,10];
+const list = [1,9,8,7,5,6,4,3,10,2];
 
-console.log( getSwapCount(list) ); // Should be `13`
+console.log( getSwapCount(list) );
 ```
 
 > Write the code for the function below...
