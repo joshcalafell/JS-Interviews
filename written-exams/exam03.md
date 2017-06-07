@@ -16,10 +16,8 @@
 
 ## Pictures
 
-> Image 1
-<a href="http://imgur.com/9jmXIEm"><img src="http://i.imgur.com/9jmXIEm.jpg" title="source: imgur.com" /></a>
+* <a href="http://imgur.com/9jmXIEm"><img src="http://i.imgur.com/9jmXIEm.jpg" title="source: imgur.com" /></a>
 
-> Image 2
-<a href="http://imgur.com/gZOUuEQ"><img src="http://i.imgur.com/gZOUuEQ.jpg" title="source: imgur.com" /></a>
+* <a href="http://imgur.com/gZOUuEQ"><img src="http://i.imgur.com/gZOUuEQ.jpg" title="source: imgur.com" /></a>
 
 
