@@ -17,14 +17,14 @@
 
 * Given an array of thes `id's`, please complete the function below to `return` an `integer` telling the user how many swaps it will take to `"organize"` the books from `lowest id` to `highest id`. 
 
-* Assume Jane can only swap books that are touching, i.e. with a distance of `(+/-) 1 unit`
+* Assume Jane can only swap books that are touching, i.e. with a distance of `(+/-) 1 unit`.
 
 ## Data
 
 ```javascript
-const list = [1,3,10,2,5,7,9,4,6,8];
+const list = [1,2,3,4,5,6,7,9,8,10];
 
-console.log( getSwapCount(list) );
+console.log( getSwapCount(list) ); // Should be `13`
 ```
 
 > Write the code for the function below...
