@@ -15,9 +15,9 @@
 * What changes would you recommend making to make this interface work well on mobile?
 
 ## Pictures
-<a href="http://imgur.com/9jmXIEm" target="_blank"><img src="http://i.imgur.com/9jmXIEmb.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/9jmXIEm" target="_blank"><img src="http://i.imgur.com/9jmXIEml.jpg" title="source: imgur.com" /></a>
 
-<a href="http://imgur.com/gZOUuEQ" target="_blank"><img src="http://i.imgur.com/gZOUuEQb.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/gZOUuEQ" target="_blank"><img src="http://i.imgur.com/gZOUuEQl.jpg" title="source: imgur.com" /></a>
 
 
 
