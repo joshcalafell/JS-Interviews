@@ -29,7 +29,7 @@ const list = [1,9,8,7,5,6,4,3,10,2];
 console.log( getSwapCount(list) );
 ```
 
-> Write the code for the function below...
+> Write the code for the function below.
 
 ```javascript
 function getSwapCount(list) {
