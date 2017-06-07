@@ -8,7 +8,7 @@
 
 > Take a look at the attached mockups, and assume you're being assigned to build them - but, for some reason, have been given very little information. These are screenshots of a feature that a Havenly designer uses to show a room concept, and its products, to a user.
 
-> Answer the following questions:
+<strong>Answer the following questions:</strong>
 
 * What are the most important questions you have about the mocks and how they should work?
 * What seems like, potentially, the biggest unknown?
