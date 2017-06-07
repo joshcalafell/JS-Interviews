@@ -4,7 +4,7 @@
 
 ### Monday, May 15th 2017 - Denver, CO U.S.A. 80210
 
-## Questions:
+## Exam
 
 1) Explain `prototypal` vs. `object oriented` inheritance in JavaScript.
 2) What is `routing` in ng2 and what are some of the components or properties of a route?

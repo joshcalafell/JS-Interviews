@@ -8,7 +8,7 @@
 * HTML
 * CSS
 
-## Question:
+## Challenge
 
 * Style the button tag to match the screenshot below »
 * Don’t use images. 

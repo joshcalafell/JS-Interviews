@@ -10,7 +10,7 @@
 * HTML
 * CSS
 
-## Question:
+## Challenge
 
 Please answer each question to the best of your ability, and discuss your answer. Either write your answers below the original questions or attach them in a separate document (format is up to you).
 

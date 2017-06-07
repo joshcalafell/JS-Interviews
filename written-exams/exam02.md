@@ -4,7 +4,7 @@
 
 ### Monday, June 5th 2017 - Denver, CO U.S.A. 80210
 
-## Questions:
+## Exam
 
 1) What is a `closure` in JavaScript?
 2) What is `hoisting` in JavaScript?
