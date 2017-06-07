@@ -1,14 +1,14 @@
 # Index for Interview Questions by Category
 
-## Code Challenges
+## Code Challenges (2)
 * [CodeChallenge01](code-challenges/challenge01.md)
 * [CodeChallenge02](code-challenges/challenge02.md)
 
-## Project Challenges
+## Project Challenges (2)
 * [ProjectChallenge01](project-challenges/challenge01.md)
 * [ProjectChallenge02](project-challenges/challenge02.md)
-* [ProjectChallenge03](project-challenges/challenge03.md)
 
-## Written Exams
+## Written Exams (3)
 * [Exam01](written-exams/exam01.md)
 * [Exam02](written-exams/exam02.md)
+* [Exam03](written-exams/exam03.md)
