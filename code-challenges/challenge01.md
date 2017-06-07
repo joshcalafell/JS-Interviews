@@ -11,11 +11,11 @@
 
 ## Challenge
 
-Diff a list of results
+<strong>Diff a list of results...</strong>
 
 * Write a function that takes two arrays full of objects and outputs a list of their changes, as seen below.
 
-* You can assume that the `ID`s of the objects will be persistent, but other values won't be. Don't assume that `name` and `quantity` are the only values to diff.
+* You can assume that the `ID` of each object will be persistent and unique, but other values won't be. Don't assume that `name` and `quantity` are the only values to diff.
 
 ## Data
 
@@ -66,7 +66,7 @@ const updatedList = [
 getDiffBetween(list, updatedList);
 ```
 
-> Should equal this
+> Calling `getDiffBetween()` with `list` as first parameter and `updatedList` as second parameter should equal the following...
 
 ```javascript
 [
