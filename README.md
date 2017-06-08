@@ -2,7 +2,7 @@
 
 <img src="http://i.imgur.com/zG96bxc.png" title="source: imgur.com" />
 
-A collection of interview questions including <u>written exams</u> to <u>project challenges</u> to <u>code challenges</u>
+A collection of interview questions including **written exams**, **project challenges**, and **code challenges**
 
 > I started this project not to help people cheat or decieve anyone - in fact I don't believe you can cheat an interview - but rather to help prepare people going into the professional JavaScript world get a grasp on what they <i>should</i> know. 
 
